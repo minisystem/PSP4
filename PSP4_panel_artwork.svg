@@ -113,11 +113,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.95934457"
-     inkscape:cx="523.44753"
-     inkscape:cy="340.16787"
+     inkscape:zoom="1.3567181"
+     inkscape:cx="595.67753"
+     inkscape:cy="322.2379"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1863"
      inkscape:window-height="1179"
@@ -198,7 +198,7 @@
        id="guide5442"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="201.13086,39.947147"
+       position="232.35115,80.729204"
        orientation="1,0"
        id="guide5476"
        inkscape:locked="false" />
@@ -228,7 +228,7 @@
        id="guide8569"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="186.83058,21.022826"
+       position="181.55117,80.729205"
        orientation="1,0"
        id="guide8571"
        inkscape:locked="false" />
@@ -272,6 +272,16 @@
        orientation="0,1"
        id="guide4867"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="157.65109,95.063838"
+       orientation="0,1"
+       id="guide28798"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="219.91586,80.575858"
+       orientation="1,0"
+       id="guide28824"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -289,7 +299,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="panel"
-     transform="translate(0,-81.1)">
+     transform="translate(0,-81.1)"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.5495494"
        id="rect4252"
@@ -1008,16 +1019,16 @@
     <text
        id="text8004"
        y="207.96906"
-       x="175.57605"
+       x="178.60255"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.64583325px;line-height:6.61458302px;font-family:Quadrat-Serial-Light;-inkscape-font-specification:'Quadrat-Serial-Light, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.39687499px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.64583325px;font-family:Quadrat-Serial-Light;-inkscape-font-specification:'Quadrat-Serial-Light, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.26458332px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
          y="207.96906"
-         x="175.57605"
+         x="178.60255"
          id="tspan8002"
-         sodipodi:role="line">VIBRATO</tspan></text>
+         sodipodi:role="line">VCO</tspan></text>
     <g
        id="g8022"
        transform="translate(135.90245,13.229169)"
@@ -3206,6 +3217,68 @@
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.64583325px;font-family:Quadrat-Serial-Light;-inkscape-font-specification:'Quadrat-Serial-Light, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.26458332px;writing-mode:lr-tb;text-anchor:start;fill:#d30000;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
          d="m 176.82655,281.61503 0.26987,-0.27516 h 0.73819 l -0.26458,0.27516 z"
          inkscape:connector-curvature="0" />
+    </g>
+    <circle
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="circle28800"
+       r="2.4999993"
+       cy="201.93616"
+       cx="169.3806"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.10000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.64583325px;line-height:6.61458302px;font-family:Quadrat-Serial-Light;-inkscape-font-specification:'Quadrat-Serial-Light, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="173.18781"
+       y="202.92305"
+       id="text28804"><tspan
+         sodipodi:role="line"
+         id="tspan28802"
+         x="173.18781"
+         y="202.92305"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.64583325px;line-height:6.61458302px;font-family:Quadrat-Serial-Light;-inkscape-font-specification:'Quadrat-Serial-Light, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px">1+2</tspan></text>
+    <circle
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="circle28806"
+       r="1.4999996"
+       cy="201.93616"
+       cx="181.55118"
+       style="display:inline;opacity:1;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g28820"
+       transform="translate(-5.8499966)">
+      <circle
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         id="circle28808"
+         r="2.4999993"
+         cy="201.93616"
+         cx="220.18057"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.10000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.64583325px;line-height:6.61458302px;font-family:Quadrat-Serial-Light;-inkscape-font-specification:'Quadrat-Serial-Light, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.26458332px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="223.78212"
+         y="202.92305"
+         id="text28812"><tspan
+           sodipodi:role="line"
+           id="tspan28810"
+           x="223.78212"
+           y="202.92305"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.64583325px;line-height:6.61458302px;font-family:Quadrat-Serial-Light;-inkscape-font-specification:'Quadrat-Serial-Light, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.26458332px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px">S&amp;H</tspan></text>
+      <circle
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         id="circle28814"
+         r="1.4999996"
+         cy="201.93616"
+         cx="232.35115"
+         style="display:inline;opacity:1;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
